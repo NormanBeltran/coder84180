@@ -9,7 +9,6 @@ client = OpenAI(
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
-
 texto_largo = """
 La teoría cuántica, también conocida como mecánica cuántica, es un área de la física cuyos principales objetos de estudio son los elementos que se encuentran a nivel microscópico. Átomos, electrones y moléculas son ejemplos de estructuras que habitan el mundo subatómico.
 “Se trata del estudio de la naturaleza, los materiales, todo lo que conforma nuestro Universo en la escala más pequeña que podemos identificar, que es la escala atómica molecular”, explica el físico Marcelo Knobel, profesor del Departamento de Física de la Materia Condensada y del Instituto de Física Gleb Wataghin, de la Universidad Estadual de Campinas (Unicamp).
